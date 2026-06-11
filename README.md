@@ -21,24 +21,26 @@ Ao final, é gerado um relatório com o custo total da impressão e uma sugestã
 
 # Front-End
 
-Front-end desenvolvido utilizando somente HTML+CSS vanilla facilitando o entendimento do código para qualquer nivel de aprendizado, desenvolvido somente para demonstrar o propósito do projeto.
+A interface gráfica foi desenvolvida utilizando JavaFX, framework responsável pela criação das telas e componentes visuais da aplicação.
 
 ## Protótipo
 
 Para melhor otimização do desenvolvimento do projeto, o protótipo abaixo foi desenvolvido para centralizar as ideias do grupo mostrando um fluxo entre os processos do código.
 
-![Projeto Final - Simulador de Fila - image1.png](Java.png)
+![Projeto Final -Impressora 3D - Java.png](Java.png)
 
 ## Ferramentas
 
--  **Git** e **GitHub** - versionamento, trabalho colaborativo e hospedagem do projeto.
-- **Visual Studio Code** - editor de código utilizado no desenvolvimento.
+-  **Git** e **GitHub** - Trabalho colaborativo e hospedagem do projeto.
+- **Visual Studio Code** - Editor de código utilizado no desenvolvimento.
+- **Canva** - Criação do protótipo e do design da interface.
 
 # Considerações Finais
 
-Este projeto foi desenvolvido com o objetivo de aplicar na prática os conceitos estudados ao longo da disciplina de Estrutura de Dados, consolidando o entendimento sobre filas, manipulação do DOM e desenvolvimento de interfaces interativas.
+Este projeto foi desenvolvido com o objetivo de aplicar na prática os conceitos de programação orientada a objetos (POO), desenvolvimento de interfaces gráficas e cálculos de custos relacionados à impressão 3D.
+Além de servir como ferramenta de apoio à precificação, o sistema contribuiu para o aprimoramento dos conhecimentos em Java e principalemnte de JavaFX durante o processo de desenvolvimento.
 
-Agradecemos ao professor **Carlos Henrique da Silva Santos** pela condução da disciplina, pela didática e pelo incentivo ao aprendizado prático.
+Agradecemos ao professor **Gerson Nunho Carriel** pela condução da disciplina, pela didática e pelo incentivo.
 
 ## Autores
 
